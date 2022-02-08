@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/client@0.1.2...@vaz-tiago/client@0.2.0) (2022-02-08)
+
+
+### Features
+
+* added utils call on client ([10db77a](https://github.com/vaz-tiago/lerna-workflow/commit/10db77a46abf03baac7d8564d8322942ab3c488a))
+
+
+
+
+
 ## [0.1.2](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/client@0.1.1...@vaz-tiago/client@0.1.2) (2022-02-08)
 
 **Note:** Version bump only for package @vaz-tiago/client
