@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/utils@0.1.0...@vaz-tiago/utils@0.2.0) (2022-02-08)
+
+
+### Features
+
+* new feat on utils ([a66f12b](https://github.com/vaz-tiago/lerna-workflow/commit/a66f12b5078be0389ddcb135f6295b365844416c))
+
+
+
+
+
 # [0.1.0](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/utils@0.0.2...@vaz-tiago/utils@0.1.0) (2022-02-08)
 
 

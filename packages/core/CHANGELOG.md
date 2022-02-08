@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/core@0.3.0...@vaz-tiago/core@0.4.0) (2022-02-08)
+
+
+### Features
+
+* added new test on api ([4e8dc8a](https://github.com/vaz-tiago/lerna-workflow/commit/4e8dc8ad2df942cb79958d83b152f1f2eb003095))
+
+
+
+
+
 # [0.3.0](https://github.com/vaz-tiago/lerna-workflow/compare/@vaz-tiago/core@0.2.0...@vaz-tiago/core@0.3.0) (2022-02-08)
 
 
