@@ -3,7 +3,7 @@
   "author": "Tiago Vaz <tiago.vaz@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Vaz-Tiago/lerna-workflow.git"
+    "url": "git@github.com/Vaz-Tiago/lerna-workflow.git"
   },
   "license": "MIT",
   "private": true,
