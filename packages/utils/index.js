@@ -1,4 +1,4 @@
 module.exports = () => {
     console.log('UTILS');
-    console.log('Manutenção da utils.');
+    console.log('new feature on utils');
 }
