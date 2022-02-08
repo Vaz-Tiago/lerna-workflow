@@ -1,0 +1,16 @@
+{
+  "name": "@lerna-workflow/utils",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vaz-tiago/lerna-workflow.git",
+    "directory": "packages/utils"
+  },
+  "scripts": {
+    "prepublish": "yarn build",
+    "build": "echo \"Build me!\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
