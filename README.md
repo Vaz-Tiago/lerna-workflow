@@ -1,2 +1,3 @@
 # lerna-workflow
-Monorepo study with lerna
+
+### This repository aims to study how the version manager works with yarn and lerna workspaces
